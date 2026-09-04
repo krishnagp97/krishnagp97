@@ -62,24 +62,22 @@ Full Stack Developer • Software Developer • Mathematics & Computing Student
 
 ## 🚀 Featured Project
 
-### 🛒 Campus Marketplace
+### 🛒 CUK STORE
 
-A campus-focused marketplace designed for students to **buy and sell products within their university community**.
+A full-stack e-commerce marketplace designed for students to buy and sell products within their campus community.
 
-**Key features:**
+**Key Features:**
+- 🔐 User authentication & email verification
+- 🛍️ Product listing, browsing & search
+- ❤️ Wishlist functionality
+- 💬 Real-time messaging between buyers and sellers
+- 📸 Image upload and cloud storage
+- 🔎 Category-based filtering
+- 📱 Responsive design & PWA support
 
-* 🔐 Authentication & email verification
-* 🛍️ Product listing and browsing
-* ❤️ Wishlist
-* 💬 Real-time messaging
-* 🔎 Product search and filtering
-* 📷 Image uploads
-* 📱 Responsive UI
-* ⚡ PWA support
+**Tech Stack:** Next.js • React • TypeScript • PostgreSQL • Prisma • Ably • Cloudinary • Tailwind CSS
 
-**Tech Stack:**
-`Next.js` `React` `TypeScript` `PostgreSQL` `Prisma` `Ably` `Cloudinary` `Tailwind CSS`
-
+🔗 **Live Demo:** [CUK STORE](https://cuk-store.vercel.app/)
 ---
 
 ## 🧠 Problem Solving
